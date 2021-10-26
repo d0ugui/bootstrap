@@ -1,4 +1,4 @@
-<img align="center" src="assets/tela.png" alt="Bootstrap Course">
+<img align="center" src="assets/tela.gif" alt="Bootstrap Course">
 
 ## 📖 Projeto
 
