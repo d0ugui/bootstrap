@@ -1,4 +1,4 @@
-<!-- <img align="center" src="src/assets/tela.png" alt="Codelandia News"> -->
+<img align="center" src="assets/tela.png" alt="Bootstrap Course">
 
 ## 📖 Projeto
 
